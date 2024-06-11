@@ -1,6 +1,6 @@
 # Landings
 
-- [Baloons](https://github.com/natalia-smyslova/components_func/tree/main](https://github.com/natalia-smyslova/landing-baloons)
+- [Baloons](https://github.com/natalia-smyslova/landing-baloons)
 
 Учебный проект курса "Верстка и веб-разработка сайтов. Продвинутый уровень Web Develop" на платформе Stepic
 В рамках настоящего проекта необходимо было сверстать макет сайта для трёх групп устройств: десктопные экраны, планшеты и смартфоны. Настоящий проект сверстан с применением css-анимации, SASS, Gulp, float и БЭМ-методологии.
