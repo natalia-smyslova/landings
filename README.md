@@ -14,6 +14,6 @@
 Верстка landing-page в рамках стажировки в Grafista studio
 
 - [Дипломный проект курса «Адаптивная и мобильная вёрстка» в рамках программы профессиональной переподготовки на платфоре "Нетология"](https://github.com/natalia-smyslova/mq-diplom/tree/main)
-- 
+
 - [Guitarist portfolio](https://github.com/natalia-smyslova/guitarist-portfolio)
   Учебный проект курса "Верстка и веб-разработка сайтов" на платформе Stepic. Проект написан с применением SASS, Gulp, flexbox и БЭМ-методологии, адаптирован под разные устройства.
